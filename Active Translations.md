@@ -12,3 +12,5 @@ French — anarratone1992@gmail.com
 Portuguese —
 
 Lithuanian —
+
+German — contact@lunaeleanor.eu.org

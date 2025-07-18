@@ -11,31 +11,31 @@ init python:
                     available_translations.append(folder_name)
         return available_translations
 
-translate russian style default:
+translate german style default:
     font "NotoSans-Regular.ttf"
 
-translate russian style check_button_text:
+translate german style check_button_text:
     font "NotoSans-Regular.ttf"
 
-translate russian style button_text:
+translate german style button_text:
     font "NotoSans-Regular.ttf"
 
-translate russian style say_label:
+translate german style say_label:
     size 30
 
-translate russian style radio:
+translate german style radio:
     font "NotoSans-Regular.ttf"
 
-translate russian style navigation_button_text:
+translate german style navigation_button_text:
     font "NotoSans-Regular.ttf"
 
-translate russian style radio_button_text:
+translate german style radio_button_text:
     font "NotoSans-Regular.ttf"
 
-translate russian style confirm_button_text:
+translate german style confirm_button_text:
     font "NotoSans-Regular.ttf"
 
-translate russian python:
+translate german python:
     gui.text_font = "NotoSans-Regular.ttf"
     gui.system_font = "NotoSans-Regular.ttf"
     gui.interface_text_font = "NotoSans-Regular.ttf"
