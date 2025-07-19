@@ -346,415 +346,415 @@ translate german bought_button_ddf0fa06:
 translate german bought_button_fc54e591:
 
     # "You hear your neighbour, who, after nearly a year, you still haven't met, walk away."
-    ""
+    "Du hörst, wie dein Nachbar, den du nach fast einem Jahr immer noch nicht getroffen hast, weggeht."
 
 # game/script.rpy:857
 translate german bought_button_208e905e:
 
     # "How can someone who never leaves their room meet someone?"
-    ""
+    "Wie kann jemand der nie seinen Raum verlässt jemanden treffen?"
 
 # game/script.rpy:858
 translate german bought_button_071d45d8:
 
     # "Sometimes you can hear the muffled sound of rock music when you're up late. He likes guitars and violins."
-    ""
+    "Manchmal, wenn du spät wach bist, hörst du gedämpfte Rock Musik. Er steht auf Gitarren und Violinen."
 
 # game/script.rpy:859
 translate german bought_button_ac9da120:
 
     # "Once, you took off your headphones and listened to the whole album."
-    ""
+    "Einmal hast du deine Kopfhörer abgenommen und dir das ganze Album angehört."
 
 # game/script.rpy:860
 translate german bought_button_cb2c7e99:
 
     # "It made you feel less lonely and more inspired than any lofi beat ever had."
-    ""
+    "Dadurch hast du dich weniger einsam und inspirierter gefühlt als jeder bisheriger LoFi-Beat "
 
 # game/script.rpy:861
 translate german bought_button_e00fcc48:
 
     # "You wish you had the courage to say hi."
-    ""
+    "Du wünschtest du hättest den Mut Hi zu sagen."
 
 # game/script.rpy:875
 translate german bought_button_508a4fa8:
 
     # "Now that's it here, I'm getting kind of excited! Opening a box is like getting a present!"
-    ""
+    "Jetzt, wo es da ist, werde ich richtig aufgeregt! Ein Paket zu öffnen ist wie ein Geschenk auszupacken!"
 
 # game/script.rpy:881
 translate german bought_button_121d1f5b:
 
     # "Can't you feel it!? This is NEW! It could change EVERYTHING! It could be THE SOLUTION!"
-    ""
+    "Fühlst du das nicht!? Das ist NEU! Es könnte ALLES verändern! Es könnte DIE LÖSUNG sein!"
 
 # game/script.rpy:886
 translate german bought_button_5dd86061:
 
     # "Inside the box is...!"
-    ""
+    "In der Box ist...!"
 
 # game/script.rpy:893
 translate german bought_button_4ca20022:
 
     # "... another box. Wow. That's disappointing."
-    ""
+    "... eine weitere Box. Wow. Das ist enttäuschend."
 
 # game/script.rpy:899
 translate german bought_button_cbe146f0:
 
     # "Oh, there's a note too. Let's see..."
-    ""
+    "Oh, da ist noch eine Notiz dabei. Mal schauen..."
 
 # game/script.rpy:908
 translate german bought_button_1fcb52ea:
 
     # m "Bright? Huhhhh?"
-    m ""
+    m "Hell? Huhhhh?"
 
 # game/script.rpy:909
 translate german bought_button_9d935913:
 
     # m "Is this right? It's like... the exact opposite of what I thought a mushroom is supposed to like."
-    m ""
+    m "Ist das richtig? Das ist ja... das genaue Gegenteil von dem, was ich dachte, was Pilze mögen würden."
 
 # game/script.rpy:913
 translate german bought_button_819fe5d3:
 
     # m "Do I follow the instructions? Or..." nointeract
-    m "" nointeract
+    m "Folge ich den Anweisungen? Oder..." nointeract
 
 # game/script.rpy:916
 translate german bought_button_c8d3c634:
 
     # m "Yeah, this makes no sense."
-    m ""
+    m "Nein, das ergibt keinen Sinn."
 
 # game/script.rpy:917
 translate german bought_button_45c06818:
 
     # m "Someone must have screwed up this note."
-    m ""
+    m "Da muss irgendwer mit der Notiz Mist gebaut haben."
 
 # game/script.rpy:933
 translate german bought_button_9db1564f:
 
     # "You set up the kit on your table, you spray it for the first time for the day, and you wait..."
-    ""
+    "Du baust das Kit auf deinem Tisch auf, besprühst es zum ersten Mal für den Tag und wartest..."
 
 # game/script.rpy:939
 translate german bought_button_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:940
 translate german bought_button_8dabefc6:
 
     # ".."
-    ""
+    ".."
 
 # game/script.rpy:941
 translate german bought_button_d7edd024:
 
     # "."
-    ""
+    "."
 
 # game/script.rpy:949
 translate german bought_button_5bbf1306:
 
     # "Wow! Those five weeks pass terrifyingly fast! You try not to think of what you've accomplished during them."
-    ""
+    "Wow! Diese fünf Wochen vergehen schrecklich schnell! Du versuchst, nicht daran zu denken, was du in der Zeit erreicht hast."
 
 # game/script.rpy:951
 translate german bought_button_750a9270:
 
     # "You stand in front of the mushroom kit."
-    ""
+    "Du stehst vor dem Pilz-Kit."
 
 # game/script.rpy:952
 translate german bought_button_2edd7b98:
 
     # "Would you look at that? Well, you can't. There's nothing to see. The damn thing didn't grow."
-    ""
+    "Na, guck mal an! Naja, wenn du das könntest. Es gibt nichts zu sehen. Das blöde Ding ist nicht gewachsen."
 
 # game/script.rpy:954
 translate german bought_button_8a348ac6:
 
     # "Secretly, you'd been getting excited. How foolish of you."
-    ""
+    "Insgeheim hast du dich schon gefreut. Wie dummgläubig von dir."
 
 # game/script.rpy:955
 translate german bought_button_a2acadd2:
 
     # "Now it's yet another disappointment."
-    ""
+    "Jetzt ist es nur eine weitere Enttäuschung."
 
 # game/script.rpy:957
 translate german bought_button_78e643a7:
 
     # m "Please grow."
-    m ""
+    m "Bitte wachs."
 
 # game/script.rpy:958
 translate german bought_button_8f1fb92a:
 
     # m "Please. Just for me."
-    m ""
+    m "Bitte. Nur für mich."
 
 # game/script.rpy:960
 translate german bought_button_39609ffc:
 
     # m "I promise I'll do better."
-    m ""
+    m "Ich verspreche, dass ich diesmal besser sein werde."
 
 # game/script.rpy:962
 translate german bought_button_f629315a:
 
     # m "I'm sorry you're stuck with me. I'm sorry I suck."
-    m ""
+    m "Es tut mir leid, dass du mit mir festhängst. Es tut mir leid, dass ich ein Versager bin."
 
 # game/script.rpy:964
 translate german bought_button_5ab3e070:
 
     # m "I'm just sorry. Please grow."
-    m ""
+    m "Es tut mir einfach leid. Bitte wachs."
 
 # game/script.rpy:966
 translate german bought_button_22a6e2ce:
 
     # m "Are you thirsty? What do you need? How can I help?"
-    m ""
+    m "Bist du durstig? Was brauchst du? Wie kann ich helfen?"
 
 # game/script.rpy:967
 translate german bought_button_535c8093:
 
     # "You're hilarious!"
-    ""
+    "Du bist ja witzig!"
 
 # game/script.rpy:969
 translate german bought_button_be2522ab:
 
     # "YOU CAN'T DO ANYTHING RIGHT." with sshake
-    "" with sshake
+    "DU KANNST GAR NICHTS RICHTIG." with sshake
 
 # game/script.rpy:972
 translate german bought_button_a7ca2a53:
 
     # "Nothing ever grew. Neither the mushroom, nor your hopes."
-    ""
+    "Nichts ist jemals gewachsen. Nicht der Pilz, und auch nicht deine Hoffnung."
 
 # game/script.rpy:996
 translate german bought_button_5a0ad9d0:
 
     # m "I'm no mycologist. Why am I acting as if I know better?"
-    m ""
+    m "Ich bin kein Mykologe. Warum tue ich so, als wüsste ich es besser?"
 
 # game/script.rpy:997
 translate german bought_button_9153eb8f:
 
     # m "I'll just follow it step by step."
-    m ""
+    m "Ich geh das einfach Schritt für Schritt durch."
 
 # game/script.rpy:1001
 translate german bought_button_35603f6e:
 
     # "Ventilation means air flow. That means... you FINALLY have to open up those curtains!"
-    ""
+    "Belüftung heißt Luftzirkulation. Das heißt... du musst ENDLICH diese Vorhänge aufmachen!"
 
 # game/script.rpy:1003
 translate german bought_button_740482c2:
 
     # m "Ughhhhhhhhh."
-    m ""
+    m "Ughhhhhhhhh."
 
 # game/script.rpy:1004
 translate german bought_button_13257646:
 
     # "How are you STILL scared? You do realise that people have better things to do than look at your sorry ass, right?"
-    ""
+    "Wie kannst du IMMER NOCH Angst haben? Dir ist schon klar, dass die Leute echt Wichtigeres zu tun haben, als sich deine jämmerliche Gestalt anzusehen, oder?"
 
 # game/script.rpy:1005
 translate german bought_button_d70c0857:
 
     # m "Mmmmmmm..."
-    m ""
+    m "Mmmmmmm..."
 
 # game/script.rpy:1006
 translate german bought_button_8bea17a5:
 
     # "HAHAHAHAHA!"
-    ""
+    "HAHAHAHAHA!"
 
 # game/script.rpy:1007
 translate german bought_button_6acd509f:
 
     # "YOU. CAN'T. DO. IT."
-    ""
+    "DU. SCHAFFST. DAS. NICHT."
 
 # game/script.rpy:1044
 translate german opened_curtained_5649adea:
 
     # m "MY RETINAS! OW OW OW!"
-    m ""
+    m "MEINE NETZHAUT! AUTSCH, AUTSCH, AUTSCH!"
 
 # game/script.rpy:1046
 translate german opened_curtained_6d25419f:
 
     # m "Whoa, it's actually a pretty nice day outside..."
-    m ""
+    m "Whoa, draußen ist ja sogar ein richtig schöner Tag..."
 
 # game/script.rpy:1048
 translate german opened_curtained_9b9b3184:
 
     # "Stop getting excited. You know you won't be getting out of here anytime soon."
-    ""
+    "Reiß dich zusammen. Du weißt doch, dass du hier nicht so bald rauskommst.“"
 
 # game/script.rpy:1049
 translate german opened_curtained_15aa139a:
 
-    # "Actually, you should feel {i}worse{/i}, now that you know what you're missing out on."
+    # "Genau genommen solltest du dich {i}schlimmer{/i} fühlen, jetzt, da du weißt, was du verpasst."
     ""
 
 # game/script.rpy:1050
 translate german opened_curtained_2bc2f21f:
 
     # "Everyone's having a great day, doing their stuff. But you're going to stay inside and do nothing."
-    ""
+    "Alle genießen ihren Tag und machen ihr Ding. Aber du bleibst drin und tust gar nichts."
 
 # game/script.rpy:1051
 translate german opened_curtained_9881a16e:
 
     # "Go on, feel worse."
-    ""
+    "Na komm, fühl dich mieser."
 
 # game/script.rpy:1052
 translate german opened_curtained_d405c0d7:
 
     # "Feel worse!"
-    ""
+    "Fühl dich mieser!"
 
 # game/script.rpy:1054
 translate german opened_curtained_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1055
 translate german opened_curtained_2c113387:
 
     # m "{sc=2}{color=#000000}Focus. Focus."
-    m ""
+    m "{sc=2}{color=#000000}Konzentrier dich. Konzentrier dich."
 
 # game/script.rpy:1056
 translate german opened_curtained_969a3ae8:
 
     # "You take a deep breath in and out (as if that'll ever shut me up), then place the kit on the table."
-    ""
+    "Du atmest tief ein und aus (als ob mich das jemals zum Schweigen bringen würde) und stellst dann das Kit auf den Tisch."
 
 # game/script.rpy:1057
 translate german opened_curtained_6b889f5a:
 
     # "Nice and toasty by the laptop."
-    ""
+    "Schön warm und gemütlich beim Laptop."
 
 # game/script.rpy:1068
 translate german opened_curtained_0c1454b0:
 
     # "Now, the hard part. Watering."
-    ""
+    "Jetzt der schwierige Teil. Wässern."
 
 # game/script.rpy:1069
 translate german opened_curtained_14d35af5:
 
     # "Think you can do that, you little shit?"
-    ""
+    "Glaubst du du kriegst das hin, du kleiner Mistkerl?"
 
 # game/script.rpy:1099
 translate german day1_watered_4a2e75e4:
 
     # m "Nice and wet."
-    m ""
+    m "Richtig schön feucht."
 
 # game/script.rpy:1101
 translate german day1_watered_4a6c2fed:
 
     # m "Heh. That's what she said."
-    m ""
+    m "Heh. Das hat sie auch gesagt."
 
 # game/script.rpy:1102
 translate german day1_watered_172c224d:
 
     # m "Hehe."
-    m ""
+    m "Hehe."
 
 # game/script.rpy:1104
 translate german day1_watered_0219ea28:
 
     # m "So stupid..."
-    m ""
+    m "So dumm..."
 
 # game/script.rpy:1131
 translate german day1_watered_2bbb0b65:
 
     # "Well, would you look at that? You woke up in the actual morning!"
-    ""
+    "Na schau mal einer an! Du bist tatsächlich morgens aufgewacht!"
 
 # game/script.rpy:1132
 translate german day1_watered_4837c2e7:
 
     # m "Shit sleep schedule got so bad, it went full circle."
-    m ""
+    m "Der beschissene Schlafrhythmus wurde so schlimm, dass er sich komplett gedreht hat."
 
 # game/script.rpy:1133
 translate german day1_watered_ea1b190e:
 
     # "What shall we do first? Spend an hour in bed on your phone? Regret your decisions? Dread the day ahead?"
-    ""
+    "Was machen wir zuerst? 'Ne Stunde im Bett mit dem Handy verbringen? Deine Entscheidungen bereuen? Dich vor dem Tag fürchten?"
 
 # game/script.rpy:1135
 translate german day1_watered_86d894ed:
 
     # m "(Nope. First thing I always do: spray the mushrooms.)"
-    m ""
+    m "(Nee. Das Erste, was ich immer mache: Die Pilze besprühen.)"
 
 # game/script.rpy:1136
 translate german day1_watered_6b439c03:
 
     # m "Hey little guy, did you get a good night sleep? Are you-"
-    m ""
+    m "Hey Kleiner, hast du gut geschlafen? Bist du-"
 
 # game/script.rpy:1139
 translate german day1_watered_36b88e84:
 
     # na "{size=-8}I don't sleep, but thanks! Also, I'm kinda stuck... Could you pull me out?{size=+8}"
-    na ""
+    na "{size=-8}Ich schlafe nicht, aber danke! Und ich häng' irgendwie fest... Kannst du mich rausholen?{size=+8}"
 
 # game/script.rpy:1141
 translate german day1_watered_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1142
 translate german day1_watered_ef60e22b:
 
     # na "{size=-8}Helloooo? Help? Please?{size=+8}"
-    na ""
+    na "{size=-8}Hallooooo? Hilfe? Bitte?{size=+8}"
 
 # game/script.rpy:1143
 translate german day1_watered_ce6f7c66:
 
     # na "{size=-8}I'd reeeeeeally like to get out of here! It'd be nice to actually SEE something{size=+8}."
-    na ""
+    na "{size=-8}Ich würde hier wiiiiiirklich gerne mal raus! Es wäre schön mal ETWAS zu sehen{size=+8}."
 
 # game/script.rpy:1144
 translate german day1_watered_4541e72d:
 
     # m "(Oh my God. There's something talking to me from inside the box!)"
-    m ""
+    m "(Oh mein Gott. Da spricht mich was aus der Box an!)"
 
 # game/script.rpy:1145
 translate german day1_watered_ea7c7490:
