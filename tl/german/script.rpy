@@ -760,715 +760,715 @@ translate german day1_watered_4541e72d:
 translate german day1_watered_ea7c7490:
 
     # "You are NOT ready for unexpected social interaction. But it's in your room, so you can't even run away!"
-    ""
+    "Du bist NICHT bereit für unerwartete soziale Interaktionen. Aber es ist in deinem Zimmer, also kannst du nicht mal weglaufen!"
 
 # game/script.rpy:1146
 translate german day1_watered_c407f030:
 
     # "This has got to be the WORST random social situation you've EVER encountered."
-    ""
+    "Das ist mit ABSTAND die schlimmste zufällige soziale Begegnung, die du je hattest."
 
 # game/script.rpy:1155
 translate german day1_watered_fdbe9d78:
 
     # m "{sc=4}{color=#000000}NOPE{/sc}. I am NOT dealing with this."
-    m ""
+    m "{sc=4}{color=#000000}NOPE{/sc}. Damit setze ich mich AUF GAR KEINEN FALL auseinander."
 
 # game/script.rpy:1158
 translate german day1_watered_b1664c86:
 
     # "Grabbing the monstrous abomination by the box, you pull back your arm and throw it out the window at full speed!"
-    ""
+    "Du packst diese monströse Abscheulichkeit samt Schachtel, holst mit dem Arm aus, und schleuderst sie mit voller Wucht aus dem Fenster!"
 
 # game/script.rpy:1161
 translate german day1_watered_2f3822e5:
 
     # na "AaaaaAAaaaAAAaaAAAAaAAAAA!!!"
-    na ""
+    na "AaaaaAAaaaAAAaaAAAAaAAAAA!!!"
 
 # game/script.rpy:1163
 translate german day1_watered_8f48ee87:
 
     # m "No one socialises with me without warning."
-    m ""
+    m "Niemand redet mit mir ohne Warnung."
 
 # game/script.rpy:1180
 translate german day1_watered_6c23688f:
 
     # m "No one."
-    m ""
+    m "Niemand."
 
 # game/script.rpy:1181
 translate german day1_watered_3f423276:
 
     # m "Back to bed."
-    m ""
+    m "Zurück ins Bett."
 
 # game/script.rpy:1205
 translate german day1_watered_4290edc5:
 
     # "\"Please\": The magic word that makes you do something you don't want to do."
-    ""
+    "„Bitte“ – das Zauberwort, das dich Dinge tun lässt, die du gar nicht tun willst."
 
 # game/script.rpy:1207
 translate german day1_watered_2bd9afea:
 
     # m "I-um- so I just... do what exactly?"
-    m ""
+    m "Ich-ähm, soll jetzt einfach... was genau machen?"
 
 # game/script.rpy:1208
 translate german day1_watered_a0e6ef29:
 
     # na "{size=-8}Just grab my head and pull! Real hard!{size=+8}"
-    na ""
+    na "{size=-8}Zieh einfach an meinem Kopf! Ganz doll!{size=+8}"
 
 # game/script.rpy:1213
 translate german day1_watered_6dd9d2b5:
 
     # "You put the box on the floor, scrunch up your oversized hoodie arms and get a good grip on that mushroom top."
-    ""
+    "Du stellst die Kiste auf den Boden, krempelst die überlangen Ärmel deines Hoodies hoch und greifst dir den Pilzhut richtig fest."
 
 # game/script.rpy:1243
 translate german day1_watered_331f52e7:
 
     # na "Phew~ Thanks for that!"
-    na ""
+    na "Puh~ Danke dafür!"
 
 # game/script.rpy:1245
 translate german day1_watered_d2c479fe:
 
     # m "Oh... my... God."
-    m ""
+    m "Oh... mein... Gott."
 
 # game/script.rpy:1247
 translate german day1_watered_780266d2:
 
     # na "It was sooooooo tight in there! Ugh! And really muffled, you know?"
-    na ""
+    na "Da drin war’s sooo eng! Ugh! Und total dumpf, verstehst du?"
 
 # game/script.rpy:1248
 translate german day1_watered_f5684dcc:
 
     # m "H-How did you even FIT in that box!?"
-    m ""
+    m "W-wie hast du in DIESE Box überhaupt reingepasst!?"
 
 # game/script.rpy:1250
 translate german day1_watered_f2f61ec5:
 
     # na "Aaah, so THIS is what it looks like outside...!"
-    na ""
+    na "Aaah, SO sieht es also draußen aus...!"
 
 # game/script.rpy:1252
 translate german day1_watered_f5ed70a7:
 
     # na "I like your environment!"
-    na ""
+    na "Ich mag deine Umgebung!"
 
 # game/script.rpy:1253
 translate german day1_watered_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1255
 translate german day1_watered_763c1ca9:
 
     # m "You're a {sc=2}{color=#000000}talking mushroom{/sc}!"
-    m ""
+    m "Du bist ein {sc=2}{color=#000000}sprechender Pilz{/sc}!"
 
 # game/script.rpy:1257
 translate german day1_watered_fd7baf41:
 
     # na "And you're my master!"
-    na ""
+    na "Und du bist mein Meister!"
 
 # game/script.rpy:1259
 translate german day1_watered_1a5f425b:
 
     # m "Your {sc=2}{color=#000000}WHAT-!?"
-    m ""
+    m "Dein {sc=2}{color=#000000}WAS-!?"
 
 # game/script.rpy:1261
 translate german day1_watered_58a4ad3c:
 
     # na "So what's your name?"
-    na ""
+    na "Ach, Wie heißt du eigentlich?"
 
 # game/script.rpy:1263
 translate german day1_watered_a0a4efe5:
 
     # m "Uh... my name... (I wasn't ready to socialise! I'm forgetting my NAME!)"
-    m ""
+    m "Ehm... Mein name... (Ich war nicht bereit für sozialen Kontakt! Jetzt hab ich sogar meinen namen VERGESSEN!)"
 
 # game/script.rpy:1274
 translate german name_9d6d09a6:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1276
 translate german name_80d32b28:
 
     # na "{sc=3}{color=#000000}MANLY!?{/sc}"
-    na ""
+    na "{sc=3}{color=#000000}MANLY!?{/sc}"
 
 # game/script.rpy:1277
 translate german name_5a35eb72:
 
     # na "That name is BADASS! You must be a really cool person!"
-    na ""
+    na "Der Name ist BADASS! Du bist bestimmt eine richtig coole Person!"
 
 # game/script.rpy:1279
 translate german name_e9dfd27d:
 
     # m "I am cool, I think?"
-    m ""
+    m "Ich bin cool, glaub ich?"
 
 # game/script.rpy:1284
 translate german name_be80047c:
 
     # na "Pick something else!"
-    na ""
+    na "Nimm was anderes!"
 
 # game/script.rpy:1287
 translate german name_9d6d09a6_1:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1289
 translate german name_0c7f2035:
 
     # na "..."
-    na ""
+    na "..."
 
 # game/script.rpy:1290
 translate german name_5cfe43b9:
 
     # na "Nope, that's not gonna work."
-    na ""
+    na "Nope, das klappt so nicht."
 
 # game/script.rpy:1292
 translate german name_3fb350c5:
 
     # m "But that's my name!"
-    m ""
+    m "Aber das ist mein Name!"
 
 # game/script.rpy:1294
 translate german name_0c7f2035_1:
 
     # na "..."
-    na ""
+    na "..."
 
 # game/script.rpy:1295
 translate german name_8c90e795:
 
     # m "Ok, ok..."
-    m ""
+    m "Ok, ok..."
 
 # game/script.rpy:1299
 translate german name_29e73008:
 
     # "What? Can't even think of a name by yourself?"
-    ""
+    "Was? Dir fällt nicht mal selbst ein Name ein?"
 
 # game/script.rpy:1300
 translate german name_f8b1da71:
 
     # "You really are hopeless."
-    ""
+    "Du bist wirklich hoffnungslos."
 
 # game/script.rpy:1301
 translate german name_61ca9909:
 
     # "Fine, I'll make one up for you. Let's go with your dead family fish."
-    ""
+    "Na gut, ich überleg mir einen für dich. Wie wär’s mit deinem toten Familienfisch?"
 
 # game/script.rpy:1304
 translate german name_9d6d09a6_2:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1308
 translate german name_9d6d09a6_3:
 
     # m "...%(player_name)s."
-    m ""
+    m "...%(player_name)s."
 
 # game/script.rpy:1310
 translate german name_f8936afe:
 
     # na "Well then, %(player_name)s..."
-    na ""
+    na "Na dann, %(player_name)s..."
 
 # game/script.rpy:1312
 translate german name_972fe69c:
 
     # na "{size=*1.5}THANK YOU FOR RAISING ME!{size=*1.0}" with sshake
-    na "" with sshake
+    na "{size=*1.5}DANKE, DASS DU MICH GROßGEZOGEN HAST!{size=*1.0}" with sshake
 
 # game/script.rpy:1314
 translate german name_987cde6e:
 
     # m "Urk... {size=-8}not... {size=-5}so... {size=-3}loud... {size=-2}please...{size=+18}"
-    m ""
+    m "Urk... {size=-8}nicht... {size=-5}so... {size=-3}laut... {size=-2}bitte...{size=+18}"
 
 # game/script.rpy:1316
 translate german name_636fc77b:
 
     # na "Whoopsie! Got carried away there and blew a hole into your eardrums, hehe."
-    na ""
+    na "Upsala! Hab mich wohl ein bisschen mitreißen lassen und dir ein Loch ins Trommelfell gepustet, hehe."
 
 # game/script.rpy:1318
 translate german name_67a1d878:
 
     # m "I-it's fine."
-    m ""
+    m "I-ist schon okay."
 
 # game/script.rpy:1320
 translate german name_41252412:
 
     # na "Sorry~"
-    na ""
+    na "Sorry~"
 
 # game/script.rpy:1322
 translate german name_2ea96ccc:
 
     # m "Please don't apologise..."
-    m ""
+    m "Bitte entschuldige dich nicht..."
 
 # game/script.rpy:1324
 translate german name_a82dc20b:
 
     # na "Alright, I won't. Sorry retracted. Let's start over, calmer this time."
-    na ""
+    na "Okay, alles klar. Sorry zurückgenommen. Lass uns nochmal von vorne starten, diesmal etwas entspannter."
 
 # game/script.rpy:1326
 translate german name_89bcc2f8:
 
     # na "Dearest %(player_name)s, thank you oh so much."
-    na ""
+    na "Oooooh %(player_name)s, ich weiß das wirklich so sehr zu schätzen. Vielen lieben Dank."
 
 # game/script.rpy:1327
 translate german name_ae2922b8:
 
     # na "Thank you for raising me..."
-    na ""
+    na "Danke, dass du dich um mich gekümmert hast…"
 
 # game/script.rpy:1328
 translate german name_e4057397:
 
     # na "Thank you for talking to me every day..."
-    na ""
+    na ", dass du jeden Tag mit mir geredet hast..."
 
 # game/script.rpy:1329
 translate german name_00447401:
 
     # na "And {i}most importantly{/i}, thank you..."
-    na ""
+    na "Und {i}am allerwichtigsten{/i}, danke..."
 
 # game/script.rpy:1330
 translate german name_92b5313f:
 
     # na "For-"
-    na ""
+    na "dafür-"
 
 # game/script.rpy:1333
 translate german name_7cddeb5d:
 
     # na "*Cough*"
-    na ""
+    na "*Hust*"
 
 # game/script.rpy:1334
 translate german name_2a24860f:
 
     # na "*Cough, cough, COUGH!*"
-    na ""
+    na "*Hust, hust, HUST*"
 
 # game/script.rpy:1336
 translate german name_fb9db078:
 
     # m "...?"
-    m ""
+    m "...?"
 
 # game/script.rpy:1339
 translate german name_51d6f5f8:
 
     # na "Cough - WATER - cough."
-    na ""
+    na "Hust - WASSER - hust."
 
 # game/script.rpy:1364
 translate german day1_watered_2_2c037fc6:
 
     # "You hurriedly spray water right at her. That seems to work."
-    ""
+    "Du sprühst ihr in aller Eile Wasser ins Gesicht. Das scheint zu helfen."
 
 # game/script.rpy:1374
 translate german day1_watered_2_954dfa72:
 
     # m "Better?"
-    m ""
+    m "Besser?"
 
 # game/script.rpy:1376
 translate german day1_watered_2_c9376117:
 
     # na "Muuuuuch better, thanks!"
-    na ""
+    na "Viiiiiiiel besser, danke!"
 
 # game/script.rpy:1378
 translate german day1_watered_2_9dfcf05f:
 
     # m "... Um, not to change the topic but-"
-    m ""
+    m "… Ähm, nicht um das Thema zu ändern, aber-"
 
 # game/script.rpy:1380
 translate german day1_watered_2_e6bf458e:
 
     # m "How are you TALKING!? What ARE you!? How did you get so... BIG?"
-    m ""
+    m "Wie kannst du ÜBERHAUPT REDEN!? Was BIST du!? Und wie bist du so… GROSS geworden!?"
 
 # game/script.rpy:1382
 translate german day1_watered_2_b153433e:
 
     # na "I dunno. I was pretty much just born, so I don't know anything."
-    na ""
+    na "Keine Ahnung. Ich wurde quasi gerade erst geboren, also weiß ich noch gar nichts."
 
 # game/script.rpy:1383
 translate german day1_watered_2_942a87d1:
 
     # na "Wasn't I supposed to be this way?"
-    na ""
+    na "Sollte ich nicht so sein?"
 
 # game/script.rpy:1385
 translate german day1_watered_2_7eb446d3:
 
     # m "{size=+10}NO!"
-    m ""
+    m "{size=+10}NEIN!"
 
 # game/script.rpy:1387
 translate german day1_watered_2_092e25df:
 
     # m "You were supposed to be small and many and non-talking!"
-    m ""
+    m "Du solltest klein sein, viele und nicht reden!"
 
 # game/script.rpy:1389
 translate german day1_watered_2_632b2ea7:
 
     # m "You're almost as big as me! I'm still amazed that you fit in that box."
-    m ""
+    m "Du bist fast so groß wie ich! Ich bin immer noch erstaunt, dass du in diese Kiste gepasst hast."
 
 # game/script.rpy:1391
 translate german day1_watered_2_cc121d2f:
 
     # na "But I like how I am now. It feels right!"
-    na ""
+    na "Aber ich mag wie ich jetzt bin. Es fühlt sich richtig an!"
 
 # game/script.rpy:1392
 translate german day1_watered_2_9a7c1d15:
 
     # ba "As for WHAT I am... I've already got a name: Agaricus bisporus."
-    ba ""
+    ba "WAS ich genau bin... ich hab schon ’nen Namen: Agaricus bisporus."
 
 # game/script.rpy:1393
 translate german day1_watered_2_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1395
 translate german day1_watered_2_2ecaf8cb:
 
     # m "Not to be rude, but it's spilling over the text box."
-    m ""
+    m "Nicht böse gemeint, aber das quillt aus dem Textkasten raus."
 
 # game/script.rpy:1397
 translate german day1_watered_2_50c09d53:
 
     # b "Eh, then just call me Button."
-    b ""
+    b "Nagut, dann nenn mich einfach Button."
 
 # game/script.rpy:1398
 translate german day1_watered_2_262fbda8:
 
     # m "Okaaaaay..."
-    m ""
+    m "Okaaaaay..."
 
 # game/script.rpy:1400
 translate german day1_watered_2_1e261406:
 
     # "Suddenly, it hits you-"
-    ""
+    "Plötzlich trifft es dich-"
 
 # game/script.rpy:1401
 translate german day1_watered_2_ed42964b:
 
     # "This situation is {i}ABNORMAL{/i}!"
-    ""
+    "Diese Situation ist {i}ABNORMAL{/i}!"
 
 # game/script.rpy:1402
 translate german day1_watered_2_a21244c1:
 
     # "You're talking to a {i}mushroom{/i}! Are you non-ironically insane?"
-    ""
+    "Du redest mit einem {i}Pilz{/i}! Bist du ernsthaft verrückt?"
 
 # game/script.rpy:1404
 translate german day1_watered_2_9419d9eb:
 
     # m "Hold on... I need to check something on my laptop."
-    m ""
+    m "Moment... Ich muss etwas an meinem Laptop prüfen."
 
 # game/script.rpy:1408
 translate german day1_watered_2_2e0cc64b:
 
     # b "Sure, sure... I'll just wait here. Again."
-    b ""
+    b "Sicher, sicher... Ich warte hier einfach. Schon wieder."
 
 # game/script.rpy:1438
 translate german buy_mushroom2_98666e83:
 
     # m "I should've checked what this website was \"about\" from the very beginning..."
-    m ""
+    m "Hätte ich von Anfang an mal gecheckt, worum’s auf der Seite eigentlich geht..."
 
 # game/script.rpy:1466
 translate german about_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1468
 translate german about_3d9610f5:
 
     # m "{sc=3}{color=#000000}WHAT THE HELL????\nWHAT KINDA MESSED UP WEBSITE IS THIS?"
-    m ""
+    m "{sc=3}{color=#000000}WAS ZUM TEUFEL????\nWAS FÜR EINE VERRÜCKTE WEBSITE IST DAS HIER?"
 
 # game/script.rpy:1469
 translate german about_1f3f412d:
 
     # m "Button!"
-    m ""
+    m "Button!"
 
 # game/script.rpy:1471
 translate german about_96d33fef:
 
     # b "Yeeeeees?"
-    b ""
+    b "Jaaaaaa?"
 
 # game/script.rpy:1473
 translate german about_87f376f0:
 
     # m "Is this true?"
-    m ""
+    m "Stimmt das hier wirklich?"
 
 # game/script.rpy:1475
 translate german about_11e19858:
 
     # b "I can't read. I've just been born?"
-    b ""
+    b "Ich kann nicht lesen. Ich wurde gerade erst geboren?"
 
 # game/script.rpy:1477
 translate german about_5da2af95:
 
     # m "It says..."
-    m ""
+    m "Da steht..."
 
 # game/script.rpy:1479
 translate german about_c02174c7:
 
     # "You're suddenly reminded of that time you messed up reading a passage during class."
-    ""
+    "Plötzlich erinnerst du dich daran, wie du im Unterricht einen Text total verhauen hast."
 
 # game/script.rpy:1480
 translate german about_a3afc8d1:
 
     # "You'll never forget the muffled laughter that followed your recital."
-    ""
+    "Das gedämpfte Kichern nach deinem Vortrag wirst du nie vergessen."
 
 # game/script.rpy:1481
 translate german about_08b2edcb:
 
     # m "Nevermind. It's just messed up!"
-    m ""
+    m "Vergiss es. Das ist einfach nur total irre!"
 
 # game/script.rpy:1483
 translate german about_ff80278c:
 
     # b "Alas, I shall never know..."
-    b ""
+    b "Ach, ich werde es wohl niemals erfahren..."
 
 # game/script.rpy:1485
 translate german about_f0718cc2:
 
     # b "Come on! Just tell me!"
-    b ""
+    b "Komm schon! Sag es mir einfach!"
 
 # game/script.rpy:1486
 translate german about_38930f18:
 
     # m "Maybe I can give you a summary..."
-    m ""
+    m "Vielleicht kann ich dir eine Zusammenfassung geben..."
 
 # game/script.rpy:1487
 translate german about_5b2dc09e:
 
     # m "The people who made you... they say stuff like..."
-    m ""
+    m "Die Leute die dich erschaffen haben... die sagen so Sachen wie..."
 
 # game/script.rpy:1489
 translate german about_5a5075d7:
 
     # m "*Ahem*"
-    m ""
+    m "*Ähem*"
 
 # game/script.rpy:1491
 translate german about_a4e58715:
 
     # m "They made you for... perverted things!... And to be {i}eaten{/i}."
-    m ""
+    m "Sie haben dich für... perverse Dinge gemacht!... Und um {i}gegessen{/i} zu werden."
 
 # game/script.rpy:1493
 translate german about_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1495
 translate german about_850ef128_1:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1496
 translate german about_19b6a0db:
 
     # m "I know, it's-"
-    m ""
+    m "Ich weiß, es ist-"
 
 # game/script.rpy:1498
 translate german about_91fb2e0a:
 
     # b "That doesn't sound so bad!"
-    b ""
+    b "Das klingt gar nicht mal so schlecht!"
 
 # game/script.rpy:1500
 translate german about_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1502
 translate german about_907048eb:
 
     # b "I just wanna have fun!"
-    b ""
+    b "Ich will einfach Spaß haben!"
 
 # game/script.rpy:1503
 translate german about_d6abce0f:
 
     # b "And I am a mushroom, so..."
-    b ""
+    b "Und ich bin ein Pilz, also..."
 
 # game/script.rpy:1505
 translate german about_d910b8af:
 
     # b "Eat me WHENEVER you want!" with sshake
-    b "" with sshake
+    b "Iss mich WANN IMMER du willst!" with sshake
 
 # game/script.rpy:1507
 translate german about_15ca5996:
 
     # b "Grilled with butter and cheese, in a saucy pasta, a soup, on a pizza, in a salad or a burger..."
-    b ""
+    b "Gegrillt mit Butter und Käse, in einer cremigen Soße zur Pasta, als Suppe, auf einer Pizza, im Salat oder im Burger..."
 
 # game/script.rpy:1508
 translate german about_99ea035e:
 
     # b "Not to mention how nutritious I am! Low in calories, containing protein, fiber, and antioxidants!"
-    b ""
+    b "Ganz zu schweigen davon, wie nahrhaft ich bin! Kalorienarm, reich an Proteinen, Ballaststoffen und Antioxidantien!"
 
 # game/script.rpy:1509
 translate german about_95c0408d:
 
     # b "Some studies even show that I can reduce risks of Alzheimer's and cancer!"
-    b ""
+    b "Einige Studien zeigen sogar, dass ich das Risiko von Alzheimer und Krebs verringern kann!"
 
 # game/script.rpy:1511
 translate german about_231c5121:
 
     # b "Isn't it wonderful how versatile my body is? I just can't wait to be consumed!"
-    b ""
+    b "Ist es nicht wundervoll, wie vielseitig mein Körper ist? Ich kann es kaum erwarten, verzehrt zu werden!"
 
 # game/script.rpy:1513
 translate german about_de5ef238:
 
     # m "Pretty random facts you know there, for someone who's \"just\" been born!"
-    m ""
+    m "Ganz schön zufällige Fakten, wenn man bedenkt, dass du \„gerade erst geboren“\ wurdest!"
 
 # game/script.rpy:1515
 translate german about_f62f440a:
 
     # b "It's just in my head... All these facts about mushrooms..."
-    b ""
+    b "Es ist einfach in meinem Kopf... All diese Fakten über Pilze..."
 
 # game/script.rpy:1517
 translate german about_c30b50cc:
 
     # m "How are you just... fine with getting eaten!? YOU'RE SAPIENT!"
-    m ""
+    m "Wie kannst du einfach... okay damit sein, gegessen zu werden!? DU BIST DOCH DENKFÄHIG!"
 
 # game/script.rpy:1519
 translate german about_fa049442:
 
     # b "Weren't you planning to eat me from the start anyway?"
-    b ""
+    b "Hattest du nicht sowieso von Anfang an geplant mich zu essen?"
 
 # game/script.rpy:1521
 translate german about_3d0d61b0:
 
     # m "Well yeah, maybe, but...."
-    m ""
+    m "Naja, vielleicht schon, aber...."
 
 # game/script.rpy:1541
 translate german about_6bf0ab21:
 
     # "But... this is more than you were prepared to handle."
-    ""
+    "Aber... das ist mehr, als du erwartet hattest."
 
 # game/script.rpy:1542
 translate german about_df909661:
 
     # "It's kind of funny how you got yourself into this mess."
-    ""
+    "Es ist irgendwie lustig, wie du dich da reingeritten hast."
 
 # game/script.rpy:1543
 translate german about_14cf17b6:
 
     # "You didn't even bother to check what you were ACTUALLY buying!"
-    ""
+    "Du hast dir nicht mal den Aufwand gemacht, zu checken, was du dir EIGENTLICH gekauft hast!"
 
 # game/script.rpy:1545
 translate german about_34f92eeb:
 
     # m "You were the one who made me do it!"
-    m ""
+    m "Du bist der Grund, warum ich das überhaupt gemacht hab!"
 
 # game/script.rpy:1547
 translate german about_e2d4ba97:
 
     # b "?"
-    b ""
+    b "?"
 
 # game/script.rpy:1548
 translate german about_84a584c0:
 
     # "?"
-    ""
+    "?"
 
 # game/script.rpy:1549
 translate german about_9e0c71bd:
 
     # "Haha! You can't blame {i}me{/i}. You're the one in control."
-    ""
+    "Haha! Du kannst {i}mir{/i} nicht die Schuld geben. Du bist derjenige, der die Kontrolle hat."
 
 # game/script.rpy:1550
 translate german about_39959b1b:
