@@ -1474,433 +1474,433 @@ translate german about_9e0c71bd:
 translate german about_39959b1b:
 
     # "Does it really matter now anyway?"
-    ""
+    "Spielt das jetzt überhaupt noch eine Rolle?"
 
 # game/script.rpy:1551
 translate german about_3c5bc4b4:
 
     # "You can't just rot in your bed anymore. You've brought sapient life into this world!"
-    ""
+    "Du kannst jetzt nicht einfach weiter in deinem Bett vergammeln. Du hast empfindungsfähiges Leben in diese Welt gebracht!"
 
 # game/script.rpy:1552
 translate german about_efdf5eb6:
 
     # "You saw that website right? Only alive for three days... yikes. You'd HATE if that were you."
-    ""
+    "Du hast die Website gesehen, oder? Drei Tage Lebensdauer... Uff. Du würdest das niemals selbst durchmachen wollen."
 
 # game/script.rpy:1554
 translate german about_2fbb820b:
 
     # "Here I'll keep a little counter for you so you're constantly reminded of her time left."
-    ""
+    "Hier, ich mach dir einen kleinen Countdown. Damit du ständig daran erinnert wirst, wie viel Zeit ihr noch bleibt."
 
 # game/script.rpy:1556
 translate german about_3c6732e7:
 
     # m "(No! I don't want that!)"
-    m ""
+    m "(Nein! Das will ich nicht!)"
 
 # game/script.rpy:1557
 translate german about_76cf3194:
 
     # m "Ugh... What mess have I gotten myself into?"
-    m ""
+    m "Ugh ... In was für ein Chaos hab ich mich da nur reingeritten?"
 
 # game/script.rpy:1559
 translate german about_505fa703:
 
     # b "Am I doing something wrong?"
-    b ""
+    b "Mach ich etwas falsch?"
 
 # game/script.rpy:1561
 translate german about_c5781b57:
 
     # m "N-not at all! Just hold on."
-    m ""
+    m "Überhaupt nicht! Warte mal."
 
 # game/script.rpy:1563
 translate german about_bb6bcc55:
 
     # m "(I can't kick it out. I raised it! I talked to it for over a month!)"
-    m ""
+    m "Ich kann sie nicht rauswerfen. Ich hab sie großgezogen! Ich hab mit ihr über einen Monat lang gesprochen!"
 
 # game/script.rpy:1564
 translate german about_8fdc5687:
 
     # m "(Screw it! This'll be good for me. I know I need a friend. It's short-term anyway...)"
-    m ""
+    m "(Scheiß drauf! Das wird mir gut tun. Ich weiß, ich brauche Freunde. Und ist eh nur für kurze Zeit...)"
 
 # game/script.rpy:1579
 translate german about_2941e2cb:
 
     # b "Whoaaaa... why is it changing colour outside!?"
-    b ""
+    b "Whoaaaa... Warum ändert sich draußen die Farbe!?"
 
 # game/script.rpy:1581
 translate german about_3f41e3d6:
 
     # m "Yeah. It's the sunset. It does that. Um..."
-    m ""
+    m "„Ja, das ist der Sonnenuntergang. Der macht das so. Ähm..."
 
 # game/script.rpy:1583
 translate german about_1bab172a:
 
     # m "So look..."
-    m ""
+    m "Pass auf..."
 
 # game/script.rpy:1584
 translate german about_4e9689c9:
 
     # m "Do you want to be..."
-    m ""
+    m "Willst du vielleicht..."
 
 # game/script.rpy:1586
 translate german about_61f64626:
 
     # b "Lovers?"
-    b ""
+    b "mit mir zusammen sein?"
 
 # game/script.rpy:1588
 translate german about_b36608e9:
 
     # m "{size=+40}{i}FRIENDS!{/i}{size=-40}"
-    m ""
+    m "{size=+40}{i}FREUNDE SEIN!{/i}{size=-40}"
 
 # game/script.rpy:1590
 translate german about_503c1395:
 
     # b "Awwww..."
-    b ""
+    b "Awwww..."
 
 # game/script.rpy:1592
 translate german about_21576464:
 
     # m "Ok, I get it. Haha."
-    m ""
+    m "Okay, ich versteh schon. Haha."
 
 # game/script.rpy:1594
 translate german about_ecc5261a:
 
     # b "I mean... I'm not joking, you know..."
-    b ""
+    b "Also... ich meine das schon ernst..."
 
 # game/script.rpy:1595
 translate german about_17a51668:
 
     # b "Romance can be pretty tasty."
-    b ""
+    b "Liebe geht doch auch durch den Magen."
 
 # game/script.rpy:1597
 translate german about_2c109297:
 
     # m "(That website really wasn't kidding, huh?)"
-    m ""
+    m "(Diese Website hat echt nicht übertrieben, was?)"
 
 # game/script.rpy:1598
 translate german about_a903aac9:
 
     # m "(They really are making and selling edible short-term lovers.)"
-    m ""
+    m "Die stellen wirklich essbare Kurzzeit-Liebhaber her und verkaufen sie."
 
 # game/script.rpy:1599
 translate german about_8ac59d30:
 
     # "Imagine being so unappealing that only a mushroom would date you."
-    ""
+    "Stell dir vor, du bist so unattraktiv, dass nur ein Pilz mit dir ausgehen würde."
 
 # game/script.rpy:1601
 translate german about_d24f34b5:
 
     # "She doesn't even care for you. She'd take {i}anyone{/i}."
-    ""
+    "Sie interessiert sich nicht mal wirklich für dich. Sie würde {i}jeden{/i} nehmen."
 
 # game/script.rpy:1602
 translate german about_ae61ce8b:
 
     # "{sc=1}{color=#000000}You're not special."
-    ""
+    "{sc=1}{color=#000000}Du bist nichts besonderes."
 
 # game/script.rpy:1603
 translate german about_750b8baf:
 
     # m "(Shut up.)"
-    m ""
+    m "(Halt den Mund.)"
 
 # game/script.rpy:1604
 translate german about_4b4f9664:
 
     # "Nah. You're not good enough at ignoring your thoughts yet."
-    ""
+    "Nee. Du bist noch nicht gut genug darin, deine Gedanken zu ignorieren."
 
 # game/script.rpy:1605
 translate german about_c9781391:
 
     # m "{sc=2}{color=#000000}(Focus!)"
-    m ""
+    m "{sc=2}{color=#000000}(Konzentrier dich!)"
 
 # game/script.rpy:1607
 translate german about_14cf8db3:
 
     # m "I don't understand how copulation would even work! You're a MUSHROOM!"
-    m ""
+    m "Wie soll Liebe machen überhaupt klappen?! Du bist ein PILZ!"
 
 # game/script.rpy:1609
 translate german about_7e308a17:
 
     # m "You're part of a completely separate evolutionary branch from me!"
-    m ""
+    m "Du gehörst zu einem völlig anderen Entwicklungszweig als ich!"
 
 # game/script.rpy:1611
 translate german about_a42467a6:
 
     # b "Don't think about it THAT hard!"
-    b ""
+    b "Denk nicht SO SCHWER darüber nach!"
 
 # game/script.rpy:1612
 translate german about_427db7a8:
 
     # b "When a man and a mushroom love each other very mu-"
-    b ""
+    b "Wenn ein Mann und ein Pilz sich ganz gaaanz se-"
 
 # game/script.rpy:1614
 translate german about_2f49e897:
 
     # m "Nevermind."
-    m ""
+    m "Vergiss es."
 
 # game/script.rpy:1615
 translate german about_01dfb594:
 
     # m "I'm not interested."
-    m ""
+    m "Ich bin nicht interessiert."
 
 # game/script.rpy:1616
 translate german about_3ca4d2f3:
 
     # "Aaaaand there it goes. Your only opportunity to get laid. Byeeeee~!"
-    ""
+    "Und da geht sie schon. Deine einzige Chance flachgelegt zu werden. Tschüssiiii~!"
 
 # game/script.rpy:1617
 translate german about_e544a718:
 
     # m "(I don't care!)"
-    m ""
+    m "(Ist mir egal!)"
 
 # game/script.rpy:1619
 translate german about_40e5cb71:
 
     # m "Friends? Yes or no?"
-    m ""
+    m "Freunde? Ja oder nein?"
 
 # game/script.rpy:1621
 translate german about_21ee2012:
 
     # b "Eh, sure. I'm open to pretty much anything."
-    b ""
+    b "Na gut. Ich bin für fast alles offen."
 
 # game/script.rpy:1622
 translate german about_8d4f5fc8:
 
     # "From what I remember, when you have friends, you need to constantly analyse how they react to what you say."
-    ""
+    "Soweit ich mich erinnere, muss man, wenn man Freunde hat, ständig analysieren, wie sie auf das reagieren, was man sagt."
 
 # game/script.rpy:1625
 translate german about_fb040ebc:
 
     # "I'll make you remember how much Button loves or, more likely, hates you."
-    ""
+    "Ich werde dich garantiert daran erinnern, wie sehr Button dich liebt, oder wahrscheinlicher, hasst."
 
 # game/script.rpy:1627
 translate german about_89d93bf9:
 
     # b "So what do you wanna do, {i}friend{/i} ?"
-    b ""
+    b "Also, was willst du machen, {i}Freund{/i}?"
 
 # game/script.rpy:1629
 translate german about_2abae1ee:
 
     # m "I don't know..."
-    m ""
+    m "Weiß ich nicht..."
 
 # game/script.rpy:1631
 translate german about_850ef128_2:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1632
 translate german about_e612037c_2:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1634
 translate german about_850ef128_3:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1636
 translate german about_e612037c_3:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1638
 translate german about_12791339:
 
     # b "O-kay... I'll take the lead then, shy boy."
-    b ""
+    b "O-kay... Dann führ ich eben, schüchterner Bursche."
 
 # game/script.rpy:1639
 translate german about_364976db:
 
     # b "Well one thing I really wanna know about you is..."
-    b ""
+    b "Also, eine Sache würd ich echt gern über dich wissen..."
 
 # game/script.rpy:1641
 translate german about_caf4866b:
 
     # b "What do you think of my form? Do I look pretty?"
-    b ""
+    b "Was hältst du von meiner Form? Findest du mich hübsch?"
 
 # game/script.rpy:1643
 translate german about_7d72bc5a:
 
     # m "This crap again? I told you-"
-    m ""
+    m "Schon wieder dieser Mist? Ich hab dir doch gesagt-"
 
 # game/script.rpy:1645
 translate german about_649534eb:
 
     # b "No no! It's not flirting, I promise. It's just like when you tell your homies they're looking good."
-    b ""
+    b "Nein, nein! Das ist kein Flirt, ehrlich! Das ist wie wenn man seinen Kumpels sagt, dass sie gut aussehen."
 
 # game/script.rpy:1647
 translate german about_eacfb1ff:
 
     # "How sweet. She thinks you have 'homies'!"
-    ""
+    "Wie süß. Sie denkt du hast 'Kumpels'!"
 
 # game/script.rpy:1649
 translate german about_79190279:
 
     # m "Ugh, I'll try..."
-    m ""
+    m "Ugh, ich versuch's..."
 
 # game/script.rpy:1654
 translate german about_cde791bd:
 
     # m "It doesn't matter..."
-    m ""
+    m "Das spielt keine Rolle..."
 
 # game/script.rpy:1657
 translate german about_850ef128_4:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1658
 translate german about_e209609e:
 
     # b "Damn."
-    b ""
+    b "...Wow."
 
 # game/script.rpy:1660
 translate german about_cd14328b:
 
     # m "What? It's just how I am. Appearance doesn't matter. No one gets to choose it anyway."
-    m ""
+    m "Was? So bin ich eben. Das Aussehen spielt keine Rolle. Und es kann sowieso niemand entscheiden, wie er aussieht."
 
 # game/script.rpy:1662
 translate german about_c4aa29c1:
 
     # m "My mom would say the same thing."
-    m ""
+    m "Meine Mutter würde das selbe sagen."
 
 # game/script.rpy:1663
 translate german about_91039d40:
 
     # "You really think you should use your mom as an example? After everything?"
-    ""
+    "Meinst du wirklich, du solltest deine Mutter als Beispiel nehmen? Nach allem?"
 
 # game/script.rpy:1665
 translate german about_6c6bd2ac:
 
     # m "A-Actually, nevermind. I don't know why I said that."
-    m ""
+    m "E-ehm, vergiss es. Ich weiß nicht, warum ich das gesagt habe."
 
 # game/script.rpy:1667
 translate german about_303dfd8e:
 
     # b "No. It's ok to have an opinion."
-    b ""
+    b "Ach, es ist okay, eine Meinung zu haben."
 
 # game/script.rpy:1669
 translate german about_9e4eca09:
 
     # b "The problem is-!"
-    b ""
+    b "Das Problem ist-!"
 
 # game/script.rpy:1671
 translate german about_8ed1e1e0:
 
     # b "When I ask if I look good, it's an opportunity to build my confidence! Not DISMISS me!"
-    b ""
+    b "Wenn ich frage ob ich gut aussehe, ist das eine Chance mein Selbstbewusstsein aufzubauen! Nicht, um abgewiesen zu werden!"
 
 # game/script.rpy:1673
 translate german about_bc52595f:
 
     # b "Otherwise, I'll just think I'm not good enough."
-    b ""
+    b "Sonst denk ich nur das ich nicht gut genug bin."
 
 # game/script.rpy:1674
 translate german about_fef6c9ea:
 
     # b "You raised me and everything..."
-    b ""
+    b "Du hast mich großgezogen und alles..."
 
 # game/script.rpy:1675
 translate german about_a1c729cf:
 
     # b "I just... wanted to hear you were proud of me..."
-    b ""
+    b "Ich wollte... einfach nur hören, dass du stolz auf mich bist..."
 
 # game/script.rpy:1677
 translate german about_20c902ac:
 
     # m "No! You're good! I'm sorry!"
-    m ""
+    m "Nein! Alles gut! Entschuldigung!"
 
 # game/script.rpy:1678
 translate german about_c97c54d0:
 
     # m "You're pretty, okay?"
-    m ""
+    m "Du bist hübsch, okay?"
 
 # game/script.rpy:1680
 translate german about_896ca50d:
 
     # m "Ugh, this is why I don't like talking! I can't do it!"
-    m ""
+    m "Ugh, deswegen mag ich es nicht zu reden! Ich kann das nicht!"
 
 # game/script.rpy:1682
 translate german about_24491324:
 
     # b "Hey..."
-    b ""
+    b "Hey..."
 
 # game/script.rpy:1684
 translate german about_49ff46a8:
 
     # b "It's ok. You didn't mean to hurt me. I'm a forgiving kind of mushy!"
-    b ""
+    b "Ist okay. Du wolltest mich nicht verletzen. Ich bin eine verzeihende Art von Pilzchen!"
 
 # game/script.rpy:1685
 translate german about_c2de9534:
 
     # b "So don't beat yourself up! I still love you!"
-    b ""
+    b "Also mach dir keine Vorwürfe! Ich lieb dich trotzdem!"
 
 # game/script.rpy:1687
 translate german about_bf55a615:
