@@ -1906,289 +1906,289 @@ translate german about_c2de9534:
 translate german about_bf55a615:
 
     # m "If you say so..."
-    m ""
+    m "Wenn du das sagst..."
 
 # game/script.rpy:1688
 translate german about_02dfdd52:
 
     # b "Ok, here's your opportunity to redeem yourself."
-    b ""
+    b "Okay, hier ist deine Chance, es wiedergutzumachen."
 
 # game/script.rpy:1690
 translate german about_5bc708f2:
 
     # "Or another opportunity to disappoint her!"
-    ""
+    "Oder eine weitere Chance sie zu enttäuschen!"
 
 # game/script.rpy:1696
 translate german about_efd669fd:
 
     # m "Heh."
-    m ""
+    m "Heh."
 
 # game/script.rpy:1697
 translate german about_5b4ec15d:
 
     # m "One could say you're...a-as..."
-    m ""
+    m "Man könnte sagen, du bist... s-so..."
 
 # game/script.rpy:1700
 translate german about_83d70ab2:
 
     # m "...Nevermind."
-    m ""
+    m "...Vergiss es."
 
 # game/script.rpy:1702
 translate german about_2fe3751f:
 
     # b "You can do it! Try to say every word in order clearly."
-    b ""
+    b "Du schaffst das! Versuch jedes Wort deutlich der Reihe nach zu sagen."
 
 # game/script.rpy:1704
 translate german about_55d84bd1:
 
     # m "But I'm going to say something stupid!"
-    m ""
+    m "Aber ich werd etwas total dämliches sagen!"
 
 # game/script.rpy:1706
 translate german about_e7d95b4b:
 
     # b "Say it! Who am I going to tell? No one!"
-    b ""
+    b "Sag es! Wem soll ich es erzählen? Niemandem!"
 
 # game/script.rpy:1709
 translate german about_a3bce6ec:
 
     # m "Ugh."
-    m ""
+    m "Ugh."
 
 # game/script.rpy:1710
 translate german about_47f11f34:
 
     # m "One could say..."
-    m ""
+    m "Man könnte sagen..."
 
 # game/script.rpy:1712
 translate german about_e1dab11c:
 
     # m "... you're as c-cute..."
-    m ""
+    m "... du bist so süß..."
 
 # game/script.rpy:1714
 translate german about_50a79452:
 
     # m "as a button! There!"
-    m ""
+    m "wie ein Knopf! Da hast du's!"
 
 # game/script.rpy:1717
 translate german about_502770b2:
 
     # b "Eeeek! How unexpectedly adorable of you!"
-    b ""
+    b "Iiiiek! Wie unerwartet süß von dir!"
 
 # game/script.rpy:1718
 translate german about_069170db:
 
     # "How \"{sc=2}{color=#000000}ADORABLE\"{/sc} you are!? HAHAHAHAHAH! Your fragile masculinity REALLY didn't want to hear that!"
-    ""
+    "Wie \"{sc=2}{color=#000000}SÜß\"{/sc} du bist!? HAHAHAHAHAH! Deine zerbrechliche Männlichkeit wollte das GAR NICHT hören!"
 
 # game/script.rpy:1720
 translate german about_a951b22b:
 
     # m "Ugh..."
-    m ""
+    m "Ugh..."
 
 # game/script.rpy:1721
 translate german about_fc042cbe:
 
     # m "(At least she looks happy.)"
-    m ""
+    m "(Immerhin sieht sie glücklich aus.)"
 
 # game/script.rpy:1722
 translate german about_ad2f1516:
 
     # b "Now I'm excited to ask you something else!"
-    b ""
+    b "Jetzt freu ich mich schon richtig, dich was anderes zu fragen!"
 
 # game/script.rpy:1727
 translate german about_caae98f3:
 
     # m "G-go ahead."
-    m ""
+    m "N-nur zu."
 
 # game/script.rpy:1729
 translate german about_ffa3bcc8:
 
     # b "Fun fact!"
-    b ""
+    b "Fun fact!"
 
 # game/script.rpy:1732
 translate german about_4995aacc:
 
     # b "Did you know that button mushrooms are some of the most widely-consumed mushroom types in the world?"
-    b ""
+    b "Wusstest du, dass Champignons, also Button Mushrooms, zu den am häufigsten konsumierten Pilzarten weltweit gehören?"
 
 # game/script.rpy:1738
 translate german about_86782f79:
 
     # m "Why?"
-    m ""
+    m "Warum?"
 
 # game/script.rpy:1741
 translate german about_74ceebcc:
 
     # b "Why...?"
-    b ""
+    b "Warum...?"
 
 # game/script.rpy:1743
 translate german about_e5b34447:
 
     # m "Yeah... I mean... I prefer Shiitake mushrooms so I'm genuinely curious."
-    m ""
+    m "Ja... also... ich mag eigentlich Shiitake lieber, deswegen interessiert mich das echt."
 
 # game/script.rpy:1745
 translate german about_8db47d35:
 
     # b "SHIITAKE!?"
-    b ""
+    b "SHIITAKE!?"
 
 # game/script.rpy:1748
 translate german about_b41ed2c0:
 
     # b "How could you compare us!?"
-    b ""
+    b "Wie kannst du uns nur vergleichen!?"
 
 # game/script.rpy:1750
 translate german about_0c5a4557:
 
     # b "I'm versatile! A CLASSIC!"
-    b ""
+    b "Ich bin vielseitig! Ein echter Klassiker!"
 
 # game/script.rpy:1752
 translate german about_bfda46a3:
 
     # m "Isn't that just your opinion?"
-    m ""
+    m "Ist das nicht einfach nur deine Meinung?"
 
 # game/script.rpy:1754
 translate german about_b5de57f6:
 
     # m "Just like you said earlier, you're entitled to your opinion. As am I."
-    m ""
+    m "Genau wie du vorhin gesagt hast, hast du das Recht auf deine Meinung. Und ich auch."
 
 # game/script.rpy:1756
 translate german about_9e37a248:
 
     # b "You chose ME. That speaks for itself."
-    b ""
+    b "Du hast MICH ausgewählt. Das sagt alles."
 
 # game/script.rpy:1758
 translate german about_4fc5eef3:
 
     # m "Well actually I chose you because-"
-    m ""
+    m "Eigentlich habe ich dich ausgesucht, weil-"
 
 # game/script.rpy:1764
 translate german about_0d9f4a27:
 
     # m "I guess that's pretty cool..."
-    m ""
+    m "Irgendwie ist das ja doch schon cool..."
 
 # game/script.rpy:1766
 translate german about_d7eb1eb8:
 
     # b "Yeah!"
-    b ""
+    b "Nicht wahr!?"
 
 # game/script.rpy:1768
 translate german about_acb5feca:
 
     # m "But like also... don't you feel weird about it? You're talking about... consuming mushrooms."
-    m ""
+    m "Aber... findest du das nicht irgendwie seltsam? Du redest darüber, Pilze zu essen."
 
 # game/script.rpy:1770
 translate german about_eebae672:
 
     # m "That's like... discussing murder to you, isn't it?"
-    m ""
+    m "Das ist für dich doch so... als würdest du über Mord reden, oder?"
 
 # game/script.rpy:1772
 translate german about_58213909:
 
     # b "I'm meant to be eaten, what can I say? I'm delicious!"
-    b ""
+    b "Ich bin halt dazu da, gegessen zu werden, was soll ich sagen? Ich bin lecker!"
 
 # game/script.rpy:1774
 translate german about_409852c1:
 
     # m "But still, are you really ok with dying?"
-    m ""
+    m "Aber... ist es für dich wirklich okay, zu sterben?"
 
 # game/script.rpy:1776
 translate german about_504425a5:
 
     # b "Yup! There's no need to think about it!"
-    b ""
+    b "Jap! Darüber muss man gar nicht nachdenken!"
 
 # game/script.rpy:1777
 translate german about_198b7240:
 
     # b "Either I dry up and wither away, or I get to be a tasty meal for a love-"
-    b ""
+    b "Entweder ich vertrockne und verwelke, oder ich werde eine leckere Mahlzeit für einen Liebha-"
 
 # game/script.rpy:1778
 translate german about_398a7de9:
 
     # b "I mean friend!"
-    b ""
+    b "Ich meine Freund!"
 
 # game/script.rpy:1780
 translate german about_57e0a7dd:
 
     # m "...Wow."
-    m ""
+    m "...Wow."
 
 # game/script.rpy:1781
 translate german about_dae2345f:
 
     # m "I'm honestly impressed."
-    m ""
+    m "Ich bin wirklich beeindruckt."
 
 # game/script.rpy:1783
 translate german about_b448f8c5:
 
     # m "You're just following life's design. I don't even know what my purpose is..."
-    m ""
+    m "Du folgst einfach dem Plan des Lebens. Ich weiß nicht mal, was mein Zweck überhaupt ist..."
 
 # game/script.rpy:1785
 translate german about_76243c27:
 
     # b "Purpose? Why are you thinking about that? Can't you just be happy doing stuff you like?"
-    b ""
+    b "Zweck? Warum denkst du darüber nach? Kannst du nicht einfach glücklich damit sein Dinge zu tun die du magst?"
 
 # game/script.rpy:1787
 translate german about_74ec14c3:
 
     # m "Nope."
-    m ""
+    m "Nope."
 
 # game/script.rpy:1789
 translate german about_ce6dba70:
 
     # b "Why?"
-    b ""
+    b "Warum?"
 
 # game/script.rpy:1790
 translate german about_863955de:
 
     # m "You... really wanna know?"
-    m ""
+    m "Du... willst das wirklich wissen?"
 
 # game/script.rpy:1792
 translate german about_b57d1211:
 
     # b "Of course! I want to know all about you!"
-    b ""
+    b "Na klar! Ich will alles über dich wissen!"
 
 # game/script.rpy:1802
 translate german about_9ae05b76:
