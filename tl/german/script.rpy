@@ -2194,175 +2194,175 @@ translate german about_b57d1211:
 translate german about_9ae05b76:
 
     # m "Uh... maybe that's a little too heavy..."
-    m ""
+    m "Ehm... vielleicht ist das ein bisschen zu ernst..."
 
 # game/script.rpy:1804
 translate german about_bd196130:
 
     # m "Let's just say... I overthink."
-    m ""
+    m "Ich sag mal... Ich denke zu viel nach."
 
 # game/script.rpy:1806
 translate german about_3485dc5b:
 
     # b "That's silly."
-    b ""
+    b "Das ist doch Quatsch."
 
 # game/script.rpy:1808
 translate german about_661769cd:
 
     # b "Just don't overthink! Then you'll be happy like me!"
-    b ""
+    b "Denk einfach weniger nach! Dann bist du glücklich wie ich!"
 
 # game/script.rpy:1809
 translate german about_396ca757:
 
     # "Yeah, don't overthink about how much you should ---- --------, and you'll be happy! Like her!"
-    ""
+    "Genau, denk nicht zu viel drüber nach wie sehr du ---- -------- machen solltest, dann bist du glücklich! Wie sie!"
 
 # game/script.rpy:1810
 translate german about_e67c9152:
 
     # "Sounds like everyone you've ever confided in."
-    ""
+    "Klingt wie jeder, dem du je dein Herz ausgeschüttet hast."
 
 # game/script.rpy:1812
 translate german about_e612037c_4:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:1814
 translate german about_850ef128_5:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1816
 translate german about_c5157f72:
 
     # b "Um, so... speaking of living life to its fullest..."
-    b ""
+    b "Ähm, also... wo wir gerade vom Leben in vollen Zügen sprechen..."
 
 # game/script.rpy:1817
 translate german about_930e9b15:
 
     # b "Can we go do something? Outside with the pretty sunset?"
-    b ""
+    b "Können wir was unternehmen? Draußen mit dem schönen Sonnenuntergang?"
 
 # game/script.rpy:1819
 translate german about_f9b9b3ae:
 
     # b "Because this room is reeeeeeally tiny and I am getting reeeeeeally bored."
-    b ""
+    b "Dieser Raum ist nämlich suuuuuuuper winzig und mir wird langsam riiiiiiichtig langweilig."
 
 # game/script.rpy:1825
 translate german explain_0031be47:
 
     # m "Hah... Ok then. It could be nice to vent. Where do I start?"
-    m ""
+    m "Ha... na gut. Vielleicht tut es gut, das mal rauszulassen. Wo fang ich an?"
 
 # game/script.rpy:1827
 translate german explain_4f3e4413:
 
     # m "My biggest struggle is probably the concept of death."
-    m ""
+    m "Am meisten zu schaffen macht mir wohl die Vorstellung vom Tod."
 
 # game/script.rpy:1829
 translate german explain_6f39adae:
 
     # m "Because one day - poof! You're alive, whether you wanted to be or not."
-    m ""
+    m "Denn eines Tages - puff! Du lebst, ob du es willst oder nicht."
 
 # game/script.rpy:1830
 translate german explain_68369c73:
 
     # m "Then you figure out pretty soon that you'll die and disappear, and there's nothing you can do about it. You're just expected to accept it and enjoy life, but-"
-    m ""
+    m "Dann findest du relativ schnell heraus, dass du irgendwann stirbst und verschwindest, und es gibt nichts was du tun kannst."
 
 # game/script.rpy:1832
 translate german explain_8a79504e:
 
     # m "Every second is counting down to death. How can you just relax?"
-    m ""
+    m "Jede Sekunde zählt auf deinen Tod runter. Wie kannst du da einfach entspannen?"
 
 # game/script.rpy:1834
 translate german explain_8371a175:
 
     # m "Sometimes I wonder why everybody isn't screaming."
-    m ""
+    m "Manchmal frage ich mich, warum nicht alle schreien."
 
 # game/script.rpy:1835
 translate german explain_de9e63f2:
 
     # m "As a kid, I was healthy and young, so didn't worry about it. I thought scientists would have discovered immortality by the time I got older and we'd all be fine."
-    m ""
+    m "Als kind war ich gesund und jung, also hab ich mir keine Sorgen darüber gemacht. Ich dachte mir Wissenschaftler würden schon Unsterblichkeit finden bis ich älter bin, und dann wäre alles in Ordnung. "
 
 # game/script.rpy:1836
 translate german explain_12c223cf:
 
     # m "But now I know that's not going to happen. The world's too corrupt, and everyone else has given up. So I have too. I'm gonna die and that's that."
-    m ""
+    m "Aber jetzt weiß ich, dass das nicht passieren wird. Die Welt ist korrupt, und alle anderen haben aufgegeben. Also hab ich das auch. Ich werde sterben, und das war's dann eben."
 
 # game/script.rpy:1838
 translate german explain_6496054e:
 
     # m "If I try to remember what it was like before I was born, that stillness and nothingness... I think death will be like that."
-    m ""
+    m "Wenn ich versuche, mich daran zu erinnern, wie es war, bevor ich geboren wurde, diese Ruhe und das Nichts... Ich glaube so wird der Tod sein. "
 
 # game/script.rpy:1839
 translate german explain_4ddb639f:
 
     # m "Maybe it won't be that bad, but it's still terrifying to disappear."
-    m ""
+    m "Vielleicht wird es nicht so schlimm sein, aber es ist immernoch angsteinflößend zu verschwinden."
 
 # game/script.rpy:1842
 translate german explain_850ef128:
 
     # b "..."
-    b ""
+    b "..."
 
 # game/script.rpy:1843
 translate german explain_a5145b77:
 
     # m "It puts you under a lot of pressure to make the most of every day, especially when you can't do the bare minimum and leave your room."
-    m ""
+    m "Das setzt einen ganz schön unter Druck, jeden Tag optimal zu nutzen, besonders, wenn man nicht mal das Nötigste erledigen und sein Zimmer verlassen kann."
 
 # game/script.rpy:1844
 translate german explain_37583720:
 
     # m "Life is a random fucking miracle in a soup of possibility. It's so weird, but I'm still scared to die, because I won't get another chance."
-    m ""
+    m "Das Leben ist ein verdammtes, zufälliges Wunder in einer Suppe voller Möglichkeiten. Es ist so seltsam, aber ich habe trotzdem Angst vor dem Sterben, weil ich keine zweite Chance bekommen werde."
 
 # game/script.rpy:1845
 translate german explain_bfd6edac:
 
     # m "So many things to do. Money, passion, skills, friendships, love, family, health..."
-    m ""
+    m "So viele Dinge zu tun. Geld, Leidenschaft, Fähigkeiten, Freundschaften, Liebe, Familie, Gesundheit..."
 
 # game/script.rpy:1847
 translate german explain_8cbc511a:
 
     # m "After a certain point of stress... doing \"happy\" things isn't enough anymore."
-    m ""
+    m "Nach einem bestimmten Punkt von Stress... reicht es nicht mehr, einfach ‚fröhliche‘ Dinge zu tun."
 
 # game/script.rpy:1851
 translate german explain_1bbc3fb9:
 
     # m "Sorry if I overshared. I don't know why-"
-    m ""
+    m "Sorry, falls ich zu viel geteilt habe. Ich weiß nicht, warum-"
 
 # game/script.rpy:1853
 translate german explain_a30dcfef:
 
     # m "Oh, are you ok?"
-    m ""
+    m "Oh, geht's dir gut?"
 
 # game/script.rpy:1854
 translate german explain_fc8b09fe:
 
     # b "I don't know... this sudden feeling of dread just came over me."
-    b ""
+    b "Ich weiß nicht..."
 
 # game/script.rpy:1855
 translate german explain_b3fdf777:
